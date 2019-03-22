@@ -1,0 +1,11 @@
+.classpath
+.git
+.gradle
+.project
+.settings
+bin
+gradle
+gradlew*
+gradlaw.bat
+settings.gradle
+
